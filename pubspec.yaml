@@ -1,5 +1,6 @@
 name: epub_view2
-description: A new Flutter project.
+description: Flutter widget for view EPUB documents on on Web, MacOs, Android and iOS. Based on dart-epub package.
+repository: https://github.com/Spatay2000/epub_view2/blob/main/lib/epub_view.dart
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
